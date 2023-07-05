@@ -1,0 +1,19 @@
+# Files
+admins.txt
+token.txt
+
+# Folders
+.idea/
+__pycache__/
+discord-interval-timer-bot-master/
+venv/
+
+assets/downloads/
+assets/downloads_raw/
+assets/lib/
+assets/personal/
+assets/removed/
+assets/sounds_lib/
+assets/special/
+assets/sw-mp3gain/
+assets/uploads/
